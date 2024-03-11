@@ -1,4 +1,4 @@
-# AI1603_Construction of Urban Data Graph
+# AI1603_Traffic Flow Prediction
 This is the repo for AI1603 - Artificial Intelligence Programming Practice (Data Mining), Summer 2023 at SJTU.  
 
 ## Project discription
